@@ -21,7 +21,7 @@ description: "This is the premiere article for *Meet MAST Series* and an intervi
 > We are naturally curious about things that work exceptionally well and often wonder what makes them successful. MAST users, particularly newer users, may have similar questions. What makes MAST "MAST"? Who are the people behind the archive? What do they do day to day?
 >
 
-To answer those questions, we are launching the *Meet MAST Series*, a new interview series that introduces the astronomers, technologists, writers, designers, and other staff members behind MAST's services, tools, and data products.
+To answer those questions, we are launching the *Meet MAST Series*, a new interview series that introduces the astronomers, engineers, writers, designers, and other staff members behind MAST's services, tools, and data products.
 
 As part of *Meet MAST*, you'll learn about the people who make MAST possible, their career paths, their day-to-day work, and the projects they are most passionate about.
 
