@@ -5,10 +5,12 @@ show_date: true
 title: "A New Interview Series: Meet MAST, Julie Imig"
 date: 2026-06-10
 img: posts/20260610/?.png
-tags: [template]
-category: template
+tags:
+  - fun
+  - outreach
+category: fun
 author: Jinmi Yoon
-description: "This is the premiere article for *Meet MAST Series*"
+description: "This is the premiere article for *Meet MAST Series* and an interview with Julie"
 ---
 # A Series: *"Meet MAST"*
 
