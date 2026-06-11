@@ -3,25 +3,25 @@ layout: post
 read_time: true
 show_date: true
 title: "A New Interview Series: Meet MAST, Julie Imig"
-date: 2026-06-10
+date: 2026-0610
 img: posts/20260610/?.png
 tags:
   - fun
   - outreach
 category: fun
 author: Jinmi Yoon
-description: "This is the premiere article for *Meet MAST Series* and an interview with Julie"
+description: "This is the premiere article for *Meet MAST Series* and an interview with Julie."
 ---
 # A Series: *"Meet MAST"*
 
-> I remember how little I knew about MAST when I was preparing for my job interview. STScI is a highly respected institution, and MAST's mission of making data from more than twenty space missions available to everyone was inspiring. The opportunity to work at such a renowned place was incredibly attractive.
+> I remember how little I knew about MAST when I was preparing for my job interview. STScI is a highly respected institution, and I was inspired by MAST's mission to make data from more than twenty space missions available to everyone. The opportunity to work at such a renowned place was incredibly attractive.
 >
 > At the same time, I had never used MAST data in my own research, and I did not know much about space telescopes. MAST felt like a black box to me. I tried to imagine what people at MAST actually did and how everything worked behind the scenes.
 >
-> We are naturally curious about things that work exceptionally well and often wonder what makes them successful. MAST users, particularly newer users, may have similar questions. What makes MAST "MAST"? Who are the people behind the archive? What do they do day to day?
+> We are naturally curious about things that work exceptionally well and often wonder what makes them successful. MAST users, particularly newer or early career users, may have similar questions. What makes MAST "MAST"? Who are the people behind the archive? What do they do day to day?
 >
 
-To answer those questions, we are launching the *Meet MAST Series*, a new interview series that introduces the astronomers, engineers, writers, designers, and other staff members behind MAST's services, tools, and data products.
+To answer those questions, we are launching the *Meet MAST Series*, a new interview series that introduces the astronomers, developers, engineers, writers, designers, and other staff members behind MAST's services, tools, and data products.
 
 As part of *Meet MAST*, you'll learn about the people who make MAST possible, their career paths, their day-to-day work, and the projects they are most passionate about.
 
@@ -33,13 +33,13 @@ Our first interview is with Julie Imig, Senior Astronomical Data Scientist.
 
 That was my reaction the first time I visited Julie Imig's apartment for a Dungeons & Dragons game she was hosting.
 
-As soon as I walked in, I noticed her collection of 3D-printed creations. There were dragons, fantasy buildings, trains, D&D props, customs, and even a model of Howl's Moving Castle. Everything was designed, printed, painted, and assembled by Julie. I was amazed that one person could create so many detailed pieces as a hobby.
+As soon as I walked in, I noticed her collection of 3D-printed creations. There were dragons, fantasy buildings, trains, D&D props, and even a model of Howl's Moving Castle. Everything was designed, printed, painted, and assembled by Julie. I was amazed that one person could create so many pieces with such a high level of craftsmanship as a hobby.
 
-That visit left a lasting impression on me. Julie has a unique combination of technical skills and creativity. Once you see her work, it becomes easy to understand why.
+That visit left a lasting impression on me. Julie has a unique combination of technical skills and artistic creativity. Once you see her work, it becomes easy to understand why.
 
 I have been fortunate to work with many talented, hardworking, generous, and approachable people at MAST, and Julie is one of them. As a Senior Astronomical Data Scientist in the Catalog Science Branch, she has contributed to many important projects, including archiving [SDSS Legacy data](https://archive.stsci.edu/missions-and-data/sdss) and [High-Level Science Products](https://mast.stsci.edu/hlsp/#/), as well as applications and databases that support the MAST search services used by astronomers around the world.
 
-Years later, whenever I use visualizations such as [MAST's View of the Sky](https://spacetelescope.github.io/mast-blog/mast-heatmap.html) or the [Jupyter notebook of MAST sky footprints](https://spacetelescope.github.io/mast_notebooks/notebooks/Visualizations/mast_sky/mast_sky.html) and other resources she has helped create, I am reminded of that first visit. The same attention to detail and craftsmanship that I saw in her hobby projects is reflected in her professional work for the astronomical community.
+Years later, whenever I use visualizations such as [MAST's View of the Sky](https://spacetelescope.github.io/mast-blog/mast-heatmap.html) or the [Jupyter notebook of MAST sky footprints](https://spacetelescope.github.io/mast_notebooks/notebooks/Visualizations/mast_sky/mast_sky.html) and other resources she has helped create, I am reminded of that first visit. The same creativity and craftsmanship that I saw in her hobby projects is reflected in her professional work for the astronomical community.
 
 In this interview, Julie shares her path into astronomy, her work at MAST, the projects she is most proud of, and some of the creative hobbies that keep her inspired outside of work.
 
