@@ -57,7 +57,7 @@ Another key experience for me was in graduate school, I led the data reductions 
 
 I joined the MAST team in 2023, and I was drawn to the archive because I believe in the mission. We archive data from dozens of different telescopes, dating back to 1978. Making sure that data is available and easily accessible is so important - there are still so many scientific discoveries to be made, even with "old" data. MAST enables scientific discovery through its data accessibility, which is something that I am very passionate about.
 
-#### What does a typical day at MAST look like for you? What is your favorite project you have worked on at MAST? Are there any tasks that put you in a state of "flow"?
+#### What does a typical day at MAST look like for you?
 
 My typical day is a combination of meetings, coding, and research! One of the fun things about working at MAST is the variety of different projects we're involved in. One minute I'll be helping publish brand new JWST data of exoplanets, and the next I might be copying SDSS data from the 1990s, or updating some software in preparation for Roman. Then in the afternoon I'll be working on my own research projects uncovering the mysteries of the Milky Way. Everyone here is so passionate about what we do, and there are so many cool projects, it can be difficult to not want to be involved in everything!
 
